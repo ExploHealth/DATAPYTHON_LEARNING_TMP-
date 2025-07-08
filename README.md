@@ -1,2 +1,2 @@
 # phython
-phython class
+python class
